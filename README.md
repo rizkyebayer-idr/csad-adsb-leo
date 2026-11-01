@@ -244,8 +244,13 @@ satellites on average and grows with constellation overlap.
 
 ## 9. Citation and licence
 
-If you use this code, please cite it using the metadata in
-[`CITATION.cff`](CITATION.cff).
+Citation metadata is in [`CITATION.cff`](CITATION.cff). The repository URL is the
+canonical reference for this code; there is no archived release and no DOI.
+
+If you reuse or extend this simulator, please cite:
+
+> R. P. Hudhajanto, *CSAD simulator: cross-satellite TESLA authentication for
+> space-based ADS-B*, https://github.com/rizkyebayer-idr/csad-adsb-leo
 
 Released under the MIT Licence (see `LICENSE`).
 

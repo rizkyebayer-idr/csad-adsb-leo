@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it using the metadata below."
+message: "If you use this software, please cite it using the metadata below. The repository URL is the canonical reference; no DOI is assigned."
 type: software
 title: "CSAD: Cross-Satellite Authentication Diversity for Space-Based ADS-B"
 abstract: >-
