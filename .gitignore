@@ -15,10 +15,8 @@ Thumbs.db
 figs/
 out/
 
-# --- Manuscript / journal material ---
-# This repository holds code only. Manuscript sources, figures for the
-# submission, reference databases and reviewer correspondence are kept
-# outside the repository on purpose.
+# --- Local working files (deliberately not part of the code base) ---
+# Documents, reference databases and build helpers stay outside version control.
 *.docx
 *.pptx
 *.pdf
