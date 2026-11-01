@@ -1,0 +1,37 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+*.swp
+
+# --- Generated output (recreated by `python sim_csad.py`) ---
+figs/
+out/
+
+# --- Manuscript / journal material ---
+# This repository holds code only. Manuscript sources, figures for the
+# submission, reference databases and reviewer correspondence are kept
+# outside the repository on purpose.
+*.docx
+*.pptx
+*.pdf
+/docs/
+/tools/
+/references_audit.csv
+/references_verified.bib
+/references_verified.ris
+/unresolved_references.txt
+/doi_list.txt
+paper_*.txt
+*dump.txt
+tmp_*.log
+rev_p*.png
+chk_p*.png
+chk2_p*.png

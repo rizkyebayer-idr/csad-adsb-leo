@@ -1,0 +1,5 @@
+# Simulation dependencies (sim_csad.py)
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+sgp4>=2.23

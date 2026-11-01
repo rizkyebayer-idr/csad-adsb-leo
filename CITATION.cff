@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "CSAD: Cross-Satellite Authentication Diversity for Space-Based ADS-B"
+abstract: >-
+  Reference implementation of the Cross-Satellite Authentication Diversity (CSAD)
+  architecture for TESLA-authenticated space-based ADS-B. The simulator propagates
+  Walker-star LEO constellations with SGP4, computes per-aircraft and per-satellite
+  link budgets and pure-ALOHA garbling, and evaluates four receiver architectures
+  (IS-0, IS-R, NF, CSAD) in terms of authentication delay, deadline probability and
+  Authenticated Surveillance Age (ASA).
+version: 1.0.0
+date-released: "2026-10-31"
+license: MIT
+authors:
+  - family-names: "Hudhajanto"
+    given-names: "Rizky Pratama"
+    affiliation: "Politeknik Negeri Batam, Batam, Indonesia"
+repository-code: "https://github.com/rizkyebayer-idr/csad-adsb-leo"
+keywords:
+  - ADS-B
+  - TESLA
+  - broadcast authentication
+  - LEO satellite constellation
+  - space-based surveillance
+  - age of information
